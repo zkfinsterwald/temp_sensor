@@ -1,9 +1,3 @@
-/* 
- * File:   1wire.h
- * Author: finstergirth
- *
- * Created on May 5, 2016, 12:01 PM
- */
 
 #ifndef ONEWIRE_H
 #define	ONEWIRE_H
